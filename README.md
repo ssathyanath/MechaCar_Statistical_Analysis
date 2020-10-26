@@ -13,7 +13,7 @@ This project is to analyze the various attributes of the MechaCar prototypes usi
 
 The results of the linear regression model to predict mpg is as below.
 
-![LRM](https://github.com/ssathyanath/MechaCar_Statistical_Analysis/tree/main/Images)
+![LRM](https://github.com/ssathyanath/MechaCar_Statistical_Analysis/blob/main/Images/LRM_MPG.png)
 
 - Based on the p-values for multiple variables in the linear regression model, the vehicle_lenght and ground_clearance have significant impact on the mpg. The intercept of the model is statistically significant, which means there are other variables and factors that contribute to the variation in mpg that have not been included in our model.
 - The slope of the linear model is not zero. This is because the p-value of our linear regression analysis is 5.35e-11, which is very less than the assumed significance level of 0.05.Therefore, there is sufficient evidence to reject our null hypothesis, which means that the slope of our linear model is not zero.
