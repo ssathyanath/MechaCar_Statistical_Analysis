@@ -25,11 +25,11 @@ Groupby and summarize R functions were used to analyse the summary statistics fo
 
 **Total Summary
 
-![LRM](https://github.com/ssathyanath/MechaCar_Statistical_Analysis/blob/main/Images/Total_Summary.png)
+![LRM](https://github.com/ssathyanath/MechaCar_Statistical_Analysis/blob/main/Images/Total_Summary.PNG)
 
 **Lot Summary
 
-![LRM](https://github.com/ssathyanath/MechaCar_Statistical_Analysis/blob/main/Images/Lot_Summary.png)
+![LRM](https://github.com/ssathyanath/MechaCar_Statistical_Analysis/blob/main/Images/Lot_Summary.PNG)
 
 The PSI variance for total summary is 76.23, which is below the design specifications limit of 100 pounds per square inch. For Lot 1 and Lot 2 the PSI variance is 1.14 and 10.14 respectively. These are below the design limit as well. Lot 3 however has a PSI variance of 220.01. This is well above the design specification limit.
 
@@ -37,7 +37,7 @@ The PSI variance for total summary is 76.23, which is below the design specifica
 
 T-Test was performed on a sample of 50 elements to the overall population of 1500 PSI. The results are shown in the below screenshot.
 
-![LRM](https://github.com/ssathyanath/MechaCar_Statistical_Analysis/blob/main/Images/os_t.png)
+![LRM](https://github.com/ssathyanath/MechaCar_Statistical_Analysis/blob/main/Images/os_t.PNG)
 
 Looking at the above results, the p-value is above our significance level (assuming our significance level was the common 0.05 percent). This implies that there is no sufficient evidence to reject the null hypothesis the two means are statistically similar.
 
@@ -45,15 +45,15 @@ T-Test was also performed to determine if the PSI for each manufacturing lot is 
 
 **Lot 1
 
-![LRM](https://github.com/ssathyanath/MechaCar_Statistical_Analysis/blob/main/Images/lot1.png)
+![LRM](https://github.com/ssathyanath/MechaCar_Statistical_Analysis/blob/main/Images/lot1.PNG)
 
 **Lot 2
 
-![LRM](https://github.com/ssathyanath/MechaCar_Statistical_Analysis/blob/main/Images/lot2.png)
+![LRM](https://github.com/ssathyanath/MechaCar_Statistical_Analysis/blob/main/Images/lot2.PNG)
 
 **Lot 3
 
-![LRM](https://github.com/ssathyanath/MechaCar_Statistical_Analysis/blob/main/Images/lot3.png)
+![LRM](https://github.com/ssathyanath/MechaCar_Statistical_Analysis/blob/main/Images/lot3.PNG)
 
 In the above results for Lot 1, Lot 2 and Lot 3 compared to overall population, the p-value is above our significance level (assuming our significance level was the common 0.05 percent). This implies that there is no sufficient evidence to reject the null hypothesis the two means for each test are statistically similar.
 
